@@ -10,7 +10,7 @@ import (
 	"github.com/casbin/casbin/v2/util"
 
 	// Enable In-Memory driver.
-	_ "github.com/bartventer/casbin-go-cloud-adapter/drivers/memdocstore"
+	_ "github.com/jleungagilebits/casbin-go-cloud-adapter/drivers/memdocstore"
 )
 
 var (
