@@ -1,4 +1,4 @@
-module github.com/bartventer/casbin-go-cloud-adapter
+module github.com/jleungagilebits/casbin-go-cloud-adapter
 
 go 1.22
 

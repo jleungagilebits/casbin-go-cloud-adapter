@@ -1,7 +1,7 @@
 {
   "name": "casbin-go-cloud-adapter",
-  "repository": "git@github.com:bartventer/casbin-go-cloud-adapter.git",
-  "author": "Bart Venter <bartventer@outlook.com>",
+  "repository": "git@github.com:jleungagilebits/casbin-go-cloud-adapter.git",
+  "author": "Jessie Leung <jessie.leung@agilebits.com>",
   "license": "MIT",
   "engines": {
     "node": ">=22.5.1"
